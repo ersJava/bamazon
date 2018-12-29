@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "MySQL Online Puppy Supply Store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersJava/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersJava/bamazon/issues"
+  },
+  "homepage": "https://github.com/ersJava/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
