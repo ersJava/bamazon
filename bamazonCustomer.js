@@ -19,12 +19,12 @@ connection.connect(function (err) {
 
 
 function products() {
-    console.log(colors.cyan.bold("**** Welcome to Bamazon Pup Store ****"));
+    console.log(colors.cyan.bold("**** Welcome to Bamazon: Online Puppy Supply Store ****"));
     connection.query('SELECT * FROM products', function (err, res) {
         if (err) throw err
 
         var table = new Table({
-            head: ["Product ID".blue, "Product".blue, "Department".blue, "Price".blue, "Quanity".blue],
+            head: ["Product ID".blue, "Product".blue, "Department".blue, "Price".blue, "Quantity".blue],
             colWidths: [12, 30, 20, 12, 12],
         });
         for (var i = 0; i < res.length; i++) {
@@ -71,7 +71,7 @@ function products() {
                             } else {
                                 connection.query('UPDATE products SET stock_quantity = stock_quantity -' + answer.quantity +
                                     'WHERE id=' + answer.purchaseByID, function (err, res) {
-                                        console.log("Thank you for your purchase");
+                                        console.log("Thank you for shopping at Bamazon: Online Puppy Supply Store!");
                         
                                     }
                                 )
