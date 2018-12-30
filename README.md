@@ -17,7 +17,7 @@ Once you make your selection, the quantity will update in the database and displ
 
 * Type in node bamazonCustomer in the command line. You will be greeted, followed by the table of products for sale.
 
-![photo](/images/Intro.png)
+![photo](/images/intro.png)
 
 * To search you will need to type in the command line, node liri "selected command", followed by search term in quoations marks.   
 The mulitple functions are performed from the case switch statments.
