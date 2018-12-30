@@ -17,14 +17,11 @@ Once you make your selection, the quantity will update in the database and displ
 
 * Type in node bamazonCustomer in the command line. You will be greeted, followed by the table of products for sale.
 
-![photo](/images/intro.png)
+![intro screenshot](/images/intro.png)
 
-* To search you will need to type in the command line, node liri "selected command", followed by search term in quoations marks.   
-The mulitple functions are performed from the case switch statments.
+* Once you made the selection you will be prompted by INQUIRER to make your selection by Product ID. You will use the arrow keys to scroll through the choices.    
 
-* Here is an example of the **concertThis()** function in action: _node liri concert-this "Rolling Stones"_
-
-![concert this example](/images/concert_this_example1.png)
+![choice screenshot](/images/choice.png)
 
 The return results will give you the Line-Up, venue, city and date of the show provided by moments.js 
 
