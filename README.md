@@ -21,7 +21,7 @@ Once you make your selection, the quantity will update in the database and displ
 
 **To get started:** 
 
-![intro screenshot](/images/intro.png)
+![intro screenshot](<iframe src="https://giphy.com/embed/2vpcBhXTyJ5btvhZio" width="480" height="422" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2vpcBhXTyJ5btvhZio">via GIPHY</a></p>)
  
 ![choice screenshot](/images/choice.png)
 
