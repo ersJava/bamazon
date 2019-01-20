@@ -5,12 +5,12 @@ A command line node application using MySQL to create an Online Puppy Supply Sto
 
 ## Customer View
 
-Bamazon: Puppy Supply Store will display a menu of items for purchase and update stock quanity of item from the store's inventory based on the customer's purchase. 
+Bamazon: Puppy Supply Store will display a menu of items for purchase and update stock quantity of item from the store's inventory based on the customer's purchase. 
 
 ### How It Works
-`node bamazonCustomer` in the command line will greet the customer and display the table of products for sale.
+The customer will enter `node bamazonCustomer` in the command line and the greeting and the table of products for sale will be displayed.
 
-The customer will be asked to 'Shop by Item ID' and then asked '? How many would you like to buy?' If the customer chooses a quantity that is larger than what is in stock, they will see  `"Sorry, not enough quantity to fill your order"` 
+The customer will be asked to `Shop by Item ID` and then asked `How many would you like to buy?`. If the customer chooses a quantity that is larger than what is in stock, they will see  `"Sorry, not enough quantity to fill your order"` 
 
 **NPM** 
 CLI Table - for the tables
