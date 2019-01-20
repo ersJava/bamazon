@@ -11,20 +11,25 @@ Bamazon: Puppy Supply Store will display a menu of items for purchase and update
 The customer will enter `node bamazonCustomer` in the command line and the greeting and the table of products for sale will be displayed.
 
 The customer will be asked to `Shop by Item ID` and then asked `How many would you like to buy?`. If the customer chooses a quantity that is larger than what is in stock, they will see  `"Sorry, not enough quantity to fill your order"` 
-
-**NPM** 
-CLI Table - for the tables
-Color.js - colors
-
-*Unfinished Items*
-Once you make your selection, the quantity will update in the database and display the total price of your purchase.
-
-**To get started:** 
-
  
 ![choice screenshot](/images/example.gif)
 
-![thank you screenshot](/images/thankyou.png)
+## Project Details
+
+### NPMs
+* CLI Table
+* Color.js
+
+### Technologies Used
+* Node JS
+* JavaScript
+* MySQL
+
+## Contributing
+Pull request are welcome!
+
+1. Once you make your selection, the quantity will update in the database and display the total price of your purchase.
+
 
 
 
