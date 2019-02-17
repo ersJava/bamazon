@@ -1,4 +1,4 @@
-<img src="https://github.com/ersJava/bamazon/blob/master/images/bamazon_logo.png" width="400" height="630" alt="bamazon logo">
+<img src="https://github.com/ersJava/bamazon/blob/master/images/bamazon_logo.png" width="700" height="430" alt="bamazon logo">
 
 # Bamazon
 > Amazon-like storefront
